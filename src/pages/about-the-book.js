@@ -13,7 +13,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'bruce-scott',
+        shortname: 'louis-demartiniz',
         config: { identifier: 12, slug }
     }
 
@@ -49,14 +49,14 @@ const ATB = (props) => {
                                     `,
                                 ebooks: {
                                     // stratton: 'https://www.stratton-press.com/books/heroes-and-villains-california-dreaming-book-i/',
-                                    barnes: 'https://www.barnesandnoble.com/w/the-five-bruce-e-scott/1122104646?ean=9781648955051',
-                                    amazon: 'https://www.amazon.com/Five-Bruce-Scott-ebook/dp/B09C22KD5D/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1629126202&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/rescue-louis-de-martinis/1139210057?ean=9781648953453',
+                                    amazon: 'https://www.amazon.com/Rescue-Louis-Martinis-ebook/dp/B092M9M6JX/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1618256650&sr=8-1',
                                 },
                                 paperback: {
-                                    amazon: 'https://www.amazon.com/Five-Bruce-Scott/dp/1648955045/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1629126202&sr=8-1',
-                                    barnes: 'https://www.barnesandnoble.com/w/the-five-bruce-e-scott/1122104646?ean=9781648955044',
-                                    booksamillion: 'https://www.booksamillion.com/p/Five/Bruce-Scott/9781648955044?id=8158356429268',
-                                    goodreads: 'https://www.goodreads.com/book/show/59049441-the-five?ac=1&from_search=true&qid=HHr03haLov&rank=1',
+                                    amazon: 'https://www.amazon.com/Rescue-Louis-Martinis/dp/1648953441/ref=sr_1_1?dchild=1&keywords=9781648953446&qid=1618256650&sr=8-1',
+                                    barnes: 'https://www.barnesandnoble.com/w/rescue-louis-de-martinis/1139210057?ean=9781648953446',
+                                    booksamillion: 'https://www.booksamillion.com/p/Rescue/Louis-De-Martinis/9781648953446?id=8158356429268',
+                                    // goodreads: 'https://www.goodreads.com/book/show/59049441-the-five?ac=1&from_search=true&qid=HHr03haLov&rank=1',
                                 }
                             }}
                         />

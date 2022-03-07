@@ -41,7 +41,7 @@ const BookInfo = (props) => {
                                 amazon: props.data.paperback.amazon,
                                 barnes: props.data.paperback.barnes,
                                 booksamillion: props.data.paperback.booksamillion,
-                                goodreads: props.data.paperback.goodreads,
+                                // goodreads: props.data.paperback.goodreads,
                             },
                             // hardcover: {
                             //     amazon: props.data.hardcover.amazon,
