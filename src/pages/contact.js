@@ -4,6 +4,8 @@ import Inputs from "../components/Inputs/inputs"
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import { Helmet } from "react-helmet"
+import swal from 'sweetalert2';
+
 
 
 const Contact = (props) => {
@@ -21,6 +23,7 @@ const Contact = (props) => {
             if (xhr.readyState !== XMLHttpRequest.DONE) return;
             if (xhr.status === 200) {
                 form.reset();
+              swal.fire('Your message successfully sent :)')
             } else {
                 console.log('something went wrong')
             }
@@ -73,7 +76,7 @@ const Contact = (props) => {
                                     <input 
                                     type="hidden" 
                                     name= "author"
-                                    value="Louis De Martinis"/>
+                                    value="Bruce Scott"/>
                                     
                                     <Inputs
                                         name="email"

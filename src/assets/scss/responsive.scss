@@ -1,7 +1,9 @@
 /*
 * Responsive Media Queries
 */
-@media screen and (max-width : 1366px){
+
+
+@media screen and (max-width : 1600px){
     .container-gt{
         .grid-child-elem{
 
@@ -33,16 +35,16 @@
     }
     
           
-    .author-name{
+    .author-name{//1366
     
         .ata-name{
-            margin: 0 45px;
+            margin: 0 10px;
         }
     }
     .banner-text .bannertxt {
         padding-left: 100px;
         font-size: 40px;
-    }
+    }   
 
     .content-wraps p{
         padding-right: 40px;
@@ -148,6 +150,7 @@
         }
         height: 100vh;
     }
+
     .banner-text .bannertxt{
         padding-left: 0px;
     }
@@ -608,7 +611,7 @@
         padding-right: 30px;
     }
     .author-name .ata-name{
-        font-size: 6vw;
+        font-size: 36px;
     }
 
     .article-section p{
@@ -725,7 +728,7 @@
         margin-left: 0;
 
         h1{
-
+        color: white;
         padding-left: 300px;
 
     }
@@ -738,7 +741,7 @@
 
 
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 844px){
     .container-gt{
         max-width: 750px;
         padding-bottom: 20px;
@@ -815,7 +818,7 @@
     }
     .author-name{
         .ata-name{
-            font-size: 60px;
+            font-size: 30px;
         }
     }
     #sailor-sermon{
@@ -886,7 +889,7 @@
         }
     }
     .author-name .ata-name {
-        font-size: 40px;
+        font-size: 32px;
     }
 
     .grid-template-four-col {
@@ -1231,6 +1234,8 @@
     .flex-container h1 {
         font-size: 29px;}
 
+        
+
 }
 
 @media screen and (max-width: 550px) {
@@ -1316,9 +1321,9 @@
 
             .banner-text {
             h1{
-                font-size: 85px;
+                // font-size: 85px;
                 letter-spacing: 5px;
-                padding-top: 260px;
+                margin-top: 260px;
 
                 .bannertxt{
                     font-size: 80px;
@@ -1344,7 +1349,7 @@
 
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 498px) {
     .banner-section{
         background-position: -20em;
     }
@@ -1362,7 +1367,7 @@
         gap: 0em;
     }
     .container-gt .grid-child-elem .banner-text h1{
-        padding-top: 50px;
+        padding-top: 0px;
     }
     .two-grid-column{
         
@@ -1372,7 +1377,7 @@
             padding: 0 0;
         }
         
-        
+
     
     }
     .banner-section {
@@ -1417,7 +1422,7 @@
            
         }
         .author-name-tag{
-            font-size: 40px;
+            font-size: 2.0rem;
             margin-top: 9%;
         }
 
@@ -1443,7 +1448,7 @@
                 letter-spacing: 0px;
                 margin-left: 0;
                 margin-right: 0;
-                padding-top: 220px;
+           
 
                 .bannertxt{
                     font-size: 65px;
@@ -1460,8 +1465,8 @@
     
     }
     .author-name .ata-name {
-        font-size: 40px;        
-        margin: 0 30px;
+                
+        margin: 0 0px;
     
     }
     
@@ -1593,11 +1598,27 @@
      
 }
 
-@media screen and (max-width: 390px){
+@media screen and (max-width: 392px){
     .container-gt .grid-child-elem .banner-text h1 {
-        padding-top: 220px;
+       
         letter-spacing: 1px;
     
+    }
+    .grid-two-columns{
+        // margin: 0 8%;
+
+        // #author-contents span{
+        //     letter-spacing: 1px;
+        //     font-size: 1em;
+           
+        // }
+        .author-name-tag{
+            font-size: 1.5rem;
+            margin-top: 9%;
+        }
+
+
+
     }
 
 
@@ -1614,7 +1635,7 @@
 
     .author-name{
        .ata-name {
-        font-size: 40px;
+        font-size: 35px;
     } 
     }
 
@@ -1631,8 +1652,7 @@
 }
 @media screen and (max-width: 375px){
     .container-gt .grid-child-elem .banner-text h1 {
-        font-size: 50px;
-        padding-top: 120px;
+        font-size: 50px;    
         letter-spacing: 5px;
         .bannertxt{
             font-size: 55px;
@@ -1681,7 +1701,7 @@
         }
     }
     .author-name .ata-name {
-        font-size: 0 30px;        
+        font-size: 20px;        
        
     
     }
@@ -1690,6 +1710,16 @@
         padding: 0;
     }
     
+    @media screen and (max-width: 300px){
+.grid-two-columns 
+{
+  .author-name-tag{
+            font-size: 1.4rem;
+            margin-top: 9%;
+        }
+    }
+}
+       
   
 
 
@@ -1733,7 +1763,7 @@
             padding: 0 10px;
         }
         .author-name .ata-name {
-            font-size: 27px;
+            font-size: 20px;
         }
         .column{
             padding: 0;
@@ -1789,6 +1819,9 @@
         
 
     }
+
+
+
 
 }
 
