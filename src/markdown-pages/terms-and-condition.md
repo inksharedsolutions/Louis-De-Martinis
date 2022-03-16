@@ -5,7 +5,7 @@
 ---
     
 
-Bruce Scott offers this Website, including all information, software, products and services available from this Website or offered as part of or in conjunction with this Website (the “Website”), to you, the user, conditioned upon your acceptance of all of the terms, conditions, policies and notices stated here. Bruce Scott reserves the right to make changes to these Terms and Conditions immediately by posting the changed Terms and Conditions in this location.
+Louis De Martinis  offers this Website, including all information, software, products and services available from this Website or offered as part of or in conjunction with this Website (the “Website”), to you, the user, conditioned upon your acceptance of all of the terms, conditions, policies and notices stated here. Bruce Scott reserves the right to make changes to these Terms and Conditions immediately by posting the changed Terms and Conditions in this location.
 
 Your continued use of the Website constitutes your agreement to all such terms, conditions and notices, and any changes to the Terms and Conditions made by Bruce Scott.
 

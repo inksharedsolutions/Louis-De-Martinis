@@ -28,7 +28,7 @@ const Pp = (props) => {
     return (
         <>
             <Layout>
-            <Helmet title="Privacy Policy | Bruce Scott"/>
+            <Helmet title="Privacy Policy | Louis De Martinis"/>
                 <Nav pathExt={props.path} />
 
                 <Banner
@@ -36,7 +36,7 @@ const Pp = (props) => {
                     contextHeading={`Policy`}
                 />
 
-                <div className="container">
+                <div className="container-privacy"> 
                     <div id="privacy-policy-content">
                         <div className="">{Parser(data.html)}</div>
                     </div>

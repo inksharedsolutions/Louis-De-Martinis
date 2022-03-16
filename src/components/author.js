@@ -1,6 +1,6 @@
 import React from 'react'
 import AuthorImg from '../../static/author/dummy-profile.jpg';
-import DummyAuthor from "../../static/author/dummy-profile.jpg";
+import DummyAuthor from "../../static/author/dummy.png";
 import { Link } from 'gatsby'
 
 const Author = () => {
@@ -30,11 +30,11 @@ const Author = () => {
                     </div>
 
                     <div className="grid-child" id="author-image-container">
-                        <img alt="author-img" src={AuthorImg} />
+                        <img alt="author-img" src={DummyAuthor} />
                     </div>
 
                     <div className="grid-child" id="author-image-container">
-                        <img alt="author-img" src={DummyAuthor} hidden />
+                        <img alt="author-img" src={AuthorImg} hidden />
                     </div>
 
                 </div>

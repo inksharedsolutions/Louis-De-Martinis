@@ -12,7 +12,7 @@ const Banner = () => {
                         <div className="grid-child-elem">
                             <div className="banner-text" id='bannercontent'>
 
-                                <h1>
+                                <h1 className="ban">
                                     RESCUE
                                 </h1>
 

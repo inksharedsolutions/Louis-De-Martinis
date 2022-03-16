@@ -10,7 +10,7 @@
 @import "content";
 @import "footer";
 @import "blog";
-
+ 
 
 /*Fonts Declaration*/
 @font-face {
@@ -200,9 +200,18 @@ button {
 
 
 #___gatsby {
-    background: linear-gradient(130deg, #386665, #ffffff);
+    background: linear-gradient(#90c9c7, #ffffff);
+}
+.container-privacy, .container-terms {
+    background-color: white;
 }
 
+
+
+
+// [.privacy {
+//     background-color: white;
+// }]
 /*Grid Elements*/
 .grid-two-columns {
     display: grid;

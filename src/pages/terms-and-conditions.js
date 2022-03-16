@@ -36,7 +36,7 @@ const TaC = (props) => {
                     contextHeading={`Conditions`}
                 />
 
-                <div className="container">
+                <div className="container-terms">
                     <div id="terms-and-conditions-content">
                         <div className="">
                             {Parser(data.html)}

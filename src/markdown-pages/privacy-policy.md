@@ -5,7 +5,7 @@
 ---
 
 
-Bruce Scott website is committed to safeguarding and preserving the privacy of our visitors.
+Louis De Martinis website is committed to safeguarding and preserving the privacy of our visitors.
 
 This Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
 

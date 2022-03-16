@@ -6,7 +6,7 @@ import Nav from '../components/nav'
 
 import Banner from '../components/non-front-banner'
 // import AuthorImg from '../../static/author/author-profile.jpg'
-import DummyImg from '../../static/author/dummy-profile.jpg'
+import DummyImg from '../../static/author/dummy.png'
 import { Helmet } from "react-helmet"
 
 const ATB = (props) => {

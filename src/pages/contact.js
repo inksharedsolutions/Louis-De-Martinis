@@ -76,7 +76,7 @@ const Contact = (props) => {
                                     <input 
                                     type="hidden" 
                                     name= "author"
-                                    value="Bruce Scott"/>
+                                    value="Louis De Martinis"/>
                                     
                                     <Inputs
                                         name="email"

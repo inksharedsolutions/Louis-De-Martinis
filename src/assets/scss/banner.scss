@@ -157,17 +157,18 @@
     // margin: 0 100px;
     // margin-left: 18em;
 
-    h1 {
-        background: -webkit-linear-gradient(#fff, #145e91);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: #00000000;
-        padding: 0;
-        text-align: center;
-        font-family: 'Black Ops One', cursive;
-        font-size: 8em;
-        letter-spacing: 4px;
-        line-height: 125px;
-        margin: 0 63px 0 50px;
+    .ban {
+     background: -webkit-linear-gradient(#fff,#87adc7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    // color:linear-gradient(#fff, #145e91) !important;
+    padding: 0;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+    font-size: 10em;
+    letter-spacing: 4px;
+    // text-shadow: 6px 5px hsla(0,0%,97.3%,.2196078431372549)!important;
+    line-height: 125px;
         &:after {
             content: '';
         }
